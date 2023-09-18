@@ -80,6 +80,7 @@ If you're interested in contributing, please follow these steps:
 ## To-Do
 - [X] Add Error Pages
 - [ ] Add encryption to passwords in database
+- [ ] Show errors directly in login
 
 ## Credits
 
