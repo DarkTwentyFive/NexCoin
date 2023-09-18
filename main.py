@@ -1,6 +1,6 @@
 # ========================================
 # Programmer: Dark25 (Ruben Roy)
-# License: Open-Source
+# License: MIT
 # Note: Please keep this credit at the console message and please properly attribute it.
 # ========================================
 
@@ -151,7 +151,7 @@ def get_balance():
 def display_credit():
     credit_info = {
         "Programmer": "Dark25 (Ruben Roy)",
-        "License": "Open-Source",
+        "License": "MIT",
         "Note": ("Please keep this credit at the console message and please properly attribute it.")
     }
 
