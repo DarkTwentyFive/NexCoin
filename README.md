@@ -76,10 +76,16 @@ If you're interested in contributing, please follow these steps:
 1. Fork the Replit project.
 2. Make your changes.
 
+## To-Do
+- [X] Add Error Pages
+- [ ] Encrypt Passwords
+- [ ] Use a better database (SQL)
+- [ ] Instead of using error pages, status directly on login page.
+
 ## Credits
 
 - **Programmer:** Dark25 (Ruben Roy)
-- **License:** Open-Source
+- **License:** MIT
 - **Note:** Please keep this credit at the console message and please properly attribute it.
 
 For any questions or feedback, feel free to contact the developer directly.
