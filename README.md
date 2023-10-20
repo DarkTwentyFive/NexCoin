@@ -9,7 +9,6 @@ This project is a website built using Flask to showcase a simple banking system 
 - [File Structure](#file-structure)
 - [Usage](#usage)
 - [Creating a NexCoin account](#creating-a-nexcoin-account)
-- [Contributing](#contributing)
 - [To Do](#to-do)
 - [Credits](#credits)
 
@@ -69,13 +68,6 @@ This example creates an account for a user named "JohnDoe" with an initial balan
 3. **Restart the Application:** If the Flask application is running, restart it to ensure it picks up the changes made to the `database.txt` file.
 
 Note: Ensure that usernames are unique. Duplicate usernames might cause unexpected behavior. Always back up `database.txt` before making changes, especially in a production environment.
-
-## Contributing
-
-If you're interested in contributing, please follow these steps:
-
-1. Fork the Replit project.
-2. Make your changes.
 
 ## To-Do
 - [X] Add Error Pages
