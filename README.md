@@ -1,4 +1,4 @@
-# Nexcoin
+# NexCoin
 
 This project is a website built using Flask to showcase a simple banking system like adding coins to a user, transferring coins between users, and checking the balance of a user.
 
@@ -73,3 +73,7 @@ Note: Ensure that usernames are unique. Duplicate usernames might cause unexpect
 - **Programmer:** Dark25 (Ruben Roy)
 
 For any questions or feedback, feel free to contact the developer directly.
+
+## License
+
+NexCoin is open-source and is under the GNU GPL v3.0 License. See the [LICENSE](LICENSE) for more information.
