@@ -9,7 +9,6 @@ This project is a website built using Flask to showcase a simple banking system 
 - [File Structure](#file-structure)
 - [Usage](#usage)
 - [Creating a NexCoin account](#creating-a-nexcoin-account)
-- [To Do](#to-do)
 - [Credits](#credits)
 
 # Getting Started
@@ -69,15 +68,8 @@ This example creates an account for a user named "JohnDoe" with an initial balan
 
 Note: Ensure that usernames are unique. Duplicate usernames might cause unexpected behavior. Always back up `database.txt` before making changes, especially in a production environment.
 
-## To-Do
-- [X] Add Error Pages
-- [ ] Add encryption to passwords in database
-- [ ] Show errors directly in login
-
 ## Credits
 
 - **Programmer:** Dark25 (Ruben Roy)
-- **License:** MIT
-- **Note:** Please keep this credit at the console message and please properly attribute it.
 
 For any questions or feedback, feel free to contact the developer directly.
