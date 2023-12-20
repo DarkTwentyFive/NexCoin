@@ -6,7 +6,6 @@ This project is a website built using Flask to showcase a simple banking system 
 
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [File Structure](#file-structure)
 - [Usage](#usage)
 - [Creating a NexCoin account](#creating-a-nexcoin-account)
 - [Credits](#credits)
@@ -24,20 +23,7 @@ pip install Flask Flask-CORS
 2. **Error Handling:** Custom error handlers are implemented for various error codes such as 404, 403, and 401.
 3. **Data Storage:** User data like username, coins, and passcodes are stored in a simple text-based database `database.txt`.
 
-## File Structure
-
-- **app.py:** This file contains the Flask application and all the routes.
-- **database.txt:** This is a simple text-based database to store user information.
-- **templates/:** This directory contains all HTML templates used for rendering pages.
-
-## URL Usage
-
-1. **Home Route (`/`):** Takes an optional `user` parameter. If provided, the server fetches user details. Else, it renders the homepage.
-2. **Add Coin Route (`/add_coin`):** Used to add a coin to the user's account. Requires `user` and `pass` parameters.
-3. **Transfer Coins Route (`/transfer_coins`):** Allows for transferring coins between users. Requires `user` parameter and a JSON body with `receiver` and `coins` fields.
-4. **Get Balance Route (`/get_balance`):** Fetches the balance of a user. Requires `user` and `pass` parameters.
-
-## Starting The Application
+## Usage
 
 Before running the project, make sure you have Flask and Flask-CORS installed. You can install them using pip:
 ```
